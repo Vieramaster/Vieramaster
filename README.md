@@ -18,7 +18,7 @@
 - 😄 Pronouns: He heee
 - ⚡ Fun fact: I always get into the wrong funeral 
 <br><br>
-https://www.iconsdb.com/icons/preview/color/E5E5E6/linkedin-3-xxl.png
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

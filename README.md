@@ -27,7 +27,7 @@ https://www.iconsdb.com/icons/preview/color/E5E5E6/linkedin-3-xxl.png
 </p>
 <br><br>
 <img align="right" alt="mini-banner" width="full" src="https://i.ibb.co/J2nzVzS/mini-banner.webp">
-<br><br>
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">

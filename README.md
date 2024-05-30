@@ -35,3 +35,9 @@
   </a>
 </p>
 
+<h3 align="center">currently studying</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,typescript" />
+  </a>
+</p>

@@ -31,7 +31,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,tailwind,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,tailwind" />
   </a>
 </p>
 

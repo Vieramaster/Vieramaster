@@ -7,7 +7,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="
- [https://i.postimg.cc/JhhFcYYs/68747470733a2f2f692e6962622e636f2f436d5264476a4c2f6e6f7465626f6f6b2e77656270.webp ]">
+ https://i.postimg.cc/JhhFcYYs/68747470733a2f2f692e6962622e636f2f436d5264476a4c2f6e6f7465626f6f6b2e77656270.webp">
 <br><br>
 <br>
 

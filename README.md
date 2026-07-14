@@ -53,3 +53,7 @@ I value clean, maintainable code, thoughtful UI design, and solutions that remai
 - Accessibility (WCAG)
 - Web performance
 - Modern UI development
+
+## Contact
+
+📧 Email: martinviera.dev@gmail.com

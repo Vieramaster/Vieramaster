@@ -1,6 +1,6 @@
-![Banner](https://ibb.co/d4SfPQ2c)
+![Banner](https://i.ibb.co/xqy21Mjs/github.webp)
 
-## Hi there 👋
+# Hi there 👋
 
 I'm a Frontend Developer from Argentina who enjoys building modern web applications with a strong focus on software architecture, user experience, accessibility, and performance.
 
@@ -46,7 +46,6 @@ I value clean, maintainable code, thoughtful UI design, and solutions that remai
 ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white)
 
----
 
 ## What I'm Currently Focused On
 

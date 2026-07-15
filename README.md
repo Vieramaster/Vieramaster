@@ -56,4 +56,4 @@ I value clean, maintainable code, thoughtful UI design, and solutions that remai
 
 ## Contact
 
-📧 Email: martinviera.dev@gmail.com
+📧 Email: martinviera.dev@outlook.com
